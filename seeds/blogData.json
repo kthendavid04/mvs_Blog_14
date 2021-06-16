@@ -1,18 +1,44 @@
 [
     {
-      "title": "Music Near Me",
-      "content": "A mobile app that will send you notifications whenever a concert is playing in your area."
+      "title": "HTML, CSS & GIT",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Urna nec tincidunt praesent semper. Elit eget gravida cum sociis natoque penatibus. Malesuada fames ac turpis egestas sed. In ornare quam viverra orci sagittis eu volutpat odio. Porttitor eget dolor morbi non arcu. Tortor aliquam nulla facilisi cras fermentum odio. Et ultrices neque ornare aenean euismod elementum. Viverra maecenas accumsan lacus vel facilisis volutpat est velit. Suspendisse in est ante in nibh. Ac tortor dignissim convallis aenean et tortor at risus viverra."
      
     },
     {
-      "title": "The Ultimate Tech Quiz",
-      "content":"A web app that will give users 10 new technical questions each day and track their progress in things like programming, cybersecurity, database architecture, and more!"
+      "title": "Advanced CSS",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Urna nec tincidunt praesent semper. Elit eget gravida cum sociis natoque penatibus. Malesuada fames ac turpis egestas sed. In ornare quam viverra orci sagittis eu volutpat odio. Porttitor eget dolor morbi non arcu. Tortor aliquam nulla facilisi cras fermentum odio. Et ultrices neque ornare aenean euismod elementum. Viverra maecenas accumsan lacus vel facilisis volutpat est velit. Suspendisse in est ante in nibh. Ac tortor dignissim convallis aenean et tortor at risus viverra."
       
     },
     {
-      "title":"Roll 'Em Up",
-      "content": "A game for Windows and macOS where players move a ball through a series of increasingly challenging mazes."
+      "title":"Javascript",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Urna nec tincidunt praesent semper. Elit eget gravida cum sociis natoque penatibus. Malesuada fames ac turpis egestas sed. In ornare quam viverra orci sagittis eu volutpat odio. Porttitor eget dolor morbi non arcu. Tortor aliquam nulla facilisi cras fermentum odio. Et ultrices neque ornare aenean euismod elementum. Viverra maecenas accumsan lacus vel facilisis volutpat est velit. Suspendisse in est ante in nibh. Ac tortor dignissim convallis aenean et tortor at risus viverra."
+    
+    },
+    {
+      "title":"Web API's",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Urna nec tincidunt praesent semper. Elit eget gravida cum sociis natoque penatibus. Malesuada fames ac turpis egestas sed. In ornare quam viverra orci sagittis eu volutpat odio. Porttitor eget dolor morbi non arcu. Tortor aliquam nulla facilisi cras fermentum odio. Et ultrices neque ornare aenean euismod elementum. Viverra maecenas accumsan lacus vel facilisis volutpat est velit. Suspendisse in est ante in nibh. Ac tortor dignissim convallis aenean et tortor at risus viverra."
+    
+    },
+    {
+      "title":"Third-Party API's",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Urna nec tincidunt praesent semper. Elit eget gravida cum sociis natoque penatibus. Malesuada fames ac turpis egestas sed. In ornare quam viverra orci sagittis eu volutpat odio. Porttitor eget dolor morbi non arcu. Tortor aliquam nulla facilisi cras fermentum odio. Et ultrices neque ornare aenean euismod elementum. Viverra maecenas accumsan lacus vel facilisis volutpat est velit. Suspendisse in est ante in nibh. Ac tortor dignissim convallis aenean et tortor at risus viverra."
+    
+    },
+    {
+      "title":"Server-Side API's",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Urna nec tincidunt praesent semper. Elit eget gravida cum sociis natoque penatibus. Malesuada fames ac turpis egestas sed. In ornare quam viverra orci sagittis eu volutpat odio. Porttitor eget dolor morbi non arcu. Tortor aliquam nulla facilisi cras fermentum odio. Et ultrices neque ornare aenean euismod elementum. Viverra maecenas accumsan lacus vel facilisis volutpat est velit. Suspendisse in est ante in nibh. Ac tortor dignissim convallis aenean et tortor at risus viverra."
+    
+    },
+    {
+      "title":"Node.js",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Urna nec tincidunt praesent semper. Elit eget gravida cum sociis natoque penatibus. Malesuada fames ac turpis egestas sed. In ornare quam viverra orci sagittis eu volutpat odio. Porttitor eget dolor morbi non arcu. Tortor aliquam nulla facilisi cras fermentum odio. Et ultrices neque ornare aenean euismod elementum. Viverra maecenas accumsan lacus vel facilisis volutpat est velit. Suspendisse in est ante in nibh. Ac tortor dignissim convallis aenean et tortor at risus viverra."
+    
+    },
+    {
+      "title":"Javascript",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Urna nec tincidunt praesent semper. Elit eget gravida cum sociis natoque penatibus. Malesuada fames ac turpis egestas sed. In ornare quam viverra orci sagittis eu volutpat odio. Porttitor eget dolor morbi non arcu. Tortor aliquam nulla facilisi cras fermentum odio. Et ultrices neque ornare aenean euismod elementum. Viverra maecenas accumsan lacus vel facilisis volutpat est velit. Suspendisse in est ante in nibh. Ac tortor dignissim convallis aenean et tortor at risus viverra."
     
     }
+
   ]
   
